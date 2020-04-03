@@ -5,7 +5,7 @@ phases:
         commands:
             - echo Hello
 
-atrifacts:
+artifacts:
     files:
         - images/*
         - stles/*
